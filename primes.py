@@ -1,3 +1,5 @@
+# A program that prints the first n primes (n=100 by default)
+
 # This function calculates the power of a number using the fast exponentiation method.
 def fast_power(base, power):
     result = 1
